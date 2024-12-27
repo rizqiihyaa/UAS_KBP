@@ -1,9 +1,9 @@
 # UAS_KBP
-💡 Apa itu Pomodoro? Pomodoro adalah teknik manajemen waktu yang efektif dengan cara membagi waktu menjadi sesi-sesi singkat yang fokus, biasanya 25 menit, diselingi oleh istirahat pendek. Untuk pengguna awam, disarankan menggunakan timer default agar lebih mudah memulai.
+Pomodoro adalah teknik manajemen waktu yang efektif dengan cara membagi waktu menjadi sesi-sesi singkat yang fokus, biasanya 25 menit, diselingi oleh istirahat pendek. Untuk pengguna awam, disarankan menggunakan timer default agar lebih mudah memulai.
 
 Pomodoro Timer ⏱️ Pengatur Waktu Belajar dan Istirahat Pomodoro Timer ini memudahkan pengaturan waktu belajar dan istirahat secara bergantian. Anda bisa mengatur waktu dalam format menit dan detik, serta menggunakan tombol berikut:
 
-Mulai
+Start
 
 Jeda
 
